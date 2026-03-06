@@ -219,6 +219,7 @@ Contributors
 - Alexander Scheel <alexander.m.scheel@gmail.com>
 - Alexander Presnyakov <flagist0@gmail.com>
 - Ahmed Azzaoui <ahmed.azzaoui@engie.com>
+- Casey Jones <731937+doctorcolossus@users.noreply.github.com>
 
 Co-Author
 ---------
